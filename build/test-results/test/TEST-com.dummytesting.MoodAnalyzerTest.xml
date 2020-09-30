@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.dummytesting.MoodAnalyzerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-30T14:02:18" hostname="LAPTOP-RGI87V6B" time="0.006">
+<testsuite name="com.dummytesting.MoodAnalyzerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-30T14:44:38" hostname="LAPTOP-RGI87V6B" time="0.003">
   <properties/>
-  <testcase name="givenMessage_WhenNull_ShouldReturnHappy" classname="com.dummytesting.MoodAnalyzerTest" time="0.006"/>
-  <system-out><![CDATA[In catch block
-]]></system-out>
+  <testcase name="givenMessage_WhenNull_ShouldReturnCustomMessage" classname="com.dummytesting.MoodAnalyzerTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
